@@ -65,7 +65,7 @@ async def get_current_user(token: str = Depends(oauth2_scheme)):
         return None
 
     user = USERS.get(username)
-    if user is None
+    if user is None:
         return None
 
     return user

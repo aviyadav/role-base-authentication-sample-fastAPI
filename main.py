@@ -5,9 +5,9 @@ from authentications import get_current_user, authenticate_user, ACCESS_TOKEN_EX
 import json
 from pydantic import BaseModel
 from authorizations import authorize
+
 # Initialize FastAPI app
 app = FastAPI()
-
 
 class User(BaseModel):
     username: str
