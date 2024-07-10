@@ -9,6 +9,16 @@
             "username": "admin1",
             "password": "$2b$12$HgB.j3S56BWsO0jkbtAiBu1nA5/D2mZMQSoD0ZZ4iCLIgTOD4Gw6e",
             "role": "admin"
+        },
+        "user2": {
+            "username": "user2",
+            "password": "$2b$12$SVo3qwLPYUp.i1qyMRINEurg7oguBvN2NlyaenZA6esNMNHmi0j0a",
+            "role": "user"
+        },
+        "user5": {
+            "username": "user5",
+            "password": "$2b$12$aUX905lNYWSHJ1FhoQv.0.cifIYyAiDRjEEf5Oq8hPFJSVCzXZFfe",
+            "role": "user"
         }
     }
 }
